@@ -12,4 +12,6 @@ Parameters are :
 
 To chose between 10KB or 100KB : go in source code and change the line 
 		const char* fileName = "india";
-	with the fileName you want. For me india is a 100KB file and Whales a 10KB  file. Put the file next to the code file.
+with the fileName you want. For me india is a 100KB file and Whales a 10KB  file. Put the file next to the code file.
+
+Finally, you can find in the performance_report a comparison of all crypting types.

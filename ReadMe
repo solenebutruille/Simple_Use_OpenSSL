@@ -1,10 +1,3 @@
-Decryption Program in Java :
-
-Put next to the decrypt_program.jar file, the cyphertexts you want to decrypt. 
-To execute program, run in command prompt : java -jar decrypt_program.jar cypherText1 cypherText2 cypherText3 ...
-WARNING : jar file must stay close to all the dictionnary files. 
-There is an example file named CypherText
-
 OpenSSL code in C :
 
 To get an executable file, execute in command prompt $ gcc using_openssl.c -o cryptDecrypt -lcrypto
